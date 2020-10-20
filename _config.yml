@@ -2,7 +2,7 @@ title: NERE BIZITZA
 author: Garazi Lasa
 email: tu-nombre@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
-Nere bizitzaz informazioa aurkitzeko lekua
+  Nere bizitzaz informazioa aurkitzeko lekua
   en _config.yml. Aparecerá en los metadatos de cabecera de tu documento (para los 
   resultados de búsqueda de Google) y en la descripción del sitio de tu archivo feed.xml.
 
