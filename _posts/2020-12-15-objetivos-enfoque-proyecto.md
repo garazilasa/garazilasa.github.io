@@ -25,7 +25,7 @@ data: 2020-12-15
     * COmo involucrar
 
 
- # 1. WATERFALL
+  **1. WATERFALL**
 * Plan de trabajo
 * Definir el proyecto
 * Diseñar
@@ -34,13 +34,13 @@ data: 2020-12-15
 * Ampliar el proyecto
 
 
- # 2. AGILE
+ **2. AGILE**
 * Plan de trabajo
 * Definir /diseñar/ desarrollar
 * Implementar
 * Ampliar 
 
 
- # 3. MEDIFICAL
+ **3. MEDIFICAL**
 * Plan, definir, diseñar, desarrollar, implementar
     *Ampliar
