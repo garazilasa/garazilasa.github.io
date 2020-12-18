@@ -25,7 +25,7 @@ data: 2020-12-15
     * COmo involucrar
 
 
-  **1. WATERFALL**
+ **1. WATERFALL**
 * Plan de trabajo
 * Definir el proyecto
 * Diseñar
