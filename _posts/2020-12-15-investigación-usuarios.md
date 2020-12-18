@@ -3,7 +3,7 @@ title: "Investigación de usuarios"
 date: 2020-12-15
 ---
 
-## UN DISEÑO PARA DAR PLACER
+## Un diseño para dar placer
 
 - Herraienta: Desarrollar una descripción precias de nuestro usuario y de que desea lograr
     * Crear los “personajes”:
