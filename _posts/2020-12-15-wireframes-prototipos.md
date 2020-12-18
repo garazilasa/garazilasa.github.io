@@ -3,7 +3,7 @@ title: "Wireframes y prototipos"
 date: 2020-12-15
 ---
 
-## WIREFRAMES AND ANNOTATIONS
+## Wireframes and Annotations
 
 
 # Wireframes
