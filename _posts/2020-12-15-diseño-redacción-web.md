@@ -9,10 +9,10 @@ Casi el 80% de los internautas leen los artículos de internet en diagonal y sol
 
 Para atraer al internauta lo que hace el autor es una serie de ideas y mecanismos para atraer el mayo número. Ideas:
 * Palabras clave
-* subtítulos (sumarios, destacados del texto que de una simple vista al internauta).
+* Subtítulos (sumarios, destacados del texto que de una simple vista al internauta).
 * Hacer listas (si algo se puede poner en lista mejor que en un párrafo).
 * Una idea por párrafo
-* los textos comprimirlos, incluso la mitad de lo que sería el tamaño normal. 
+* Los textos comprimirlos, incluso la mitad de lo que sería el tamaño normal. 
 Para que los usuarios se queden en la web es importante que lo que se publique tenga credibilidad esto aumentó con gráficos, buena escritura, hipertextos, evitar la subjetividad, la claridad en el diseño del sitio, mejor sencillez que extravagancia. 
 
 
@@ -29,7 +29,7 @@ Hay que ser conciso claro utilizar listas, no promocionar en la web contar con o
 
 
 
-## 2. ERB WRITING FOR MANY INTEREST LEVELS
+## 2. WEB WRITING FOR MANY INTEREST LEVELS
 
 Distinción entre tres clase de personas: con poco interés, algo interés y mucho interés. 
 * Por estas funciones de interés hay que utilizar el mítico nivel de pirámide invertida para escribir las noticias. 
