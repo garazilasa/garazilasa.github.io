@@ -4,6 +4,7 @@ date: 2020-12-15
 ---
 
 ## Site maps
+
 **¿Qué es?:** representa la jerarquia de un sitio web.
 
 La anatomía: copa, cajas, flechas… En esta parte se tiene que organizar como ira estructurada la página web, para ello se utilizan diferentes dibujos como cajas de diferentes formas, flechas líneas para conectarlos entre ellos.
