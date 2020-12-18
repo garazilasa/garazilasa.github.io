@@ -3,7 +3,7 @@ title: "Diseño y redacción para la web"
 date: 2020-12-15
 ---
 
-## 1. HOW USERS READ ON THE WEB
+## 1. How users read on the web
 
 Casi el 80% de los internautas leen los artículos de internet en diagonal y solo palabra por palabra el 16%. 
 
