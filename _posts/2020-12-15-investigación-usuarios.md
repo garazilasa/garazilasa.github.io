@@ -30,7 +30,7 @@ date: 2020-12-15
 
 **Personajes básicos**
 El reparto de personajes: de 3 a 12 personajes, pueden y suelen tener diferentes enfoques.
-Siempre hay un personajes básico  objetivo principal deba satisfacer y a quien no pueda satisfacer 
+Siempre hay un personajes básico -objetivo principal- deba satisfacer y a quien no pueda satisfacer 
 * Siempre una interfaz
 * Importante identificarlos, cada uno tiene que tener un interfaz
 * Más de tres básicos problemas
